@@ -19,7 +19,7 @@ python rover_analytics.py
 Outputs three dark-themed PNG files at 180 DPI, ready to embed in a Medium post.
 
 Read the Full Teardown
-Medium post: ----
+Medium post: medium.com/@895akshita/b90acd9d9f39
 LinkedIn:    linkedin.com/in/akshita-bhalla
 
 CHART ASSET GUIDE
