@@ -6,7 +6,7 @@ Data fetched from public SEC 8-K filings and verified press releases.
 
 Author : Akshita Bhalla
 LinkedIn: linkedin.com/in/akshita-bhalla
-Medium  : ----     (full teardown including what prompted this analysis)
+Medium  : medium.com/@895akshita/b90acd9d9f39    (full teardown including what prompted this analysis)
 
 Context: This script was written after a personal experience using Rover in a last-minute
 situation -- and realizing that what made the booking work had nothing to do with what
