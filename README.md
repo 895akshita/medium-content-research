@@ -10,6 +10,7 @@ actually says. This repo is where the work lives.
 - The Data Behind the Headline
 - When the Metric Lies
 - Company Teardowns (Seattle focus)
+- Unpopular Data Takes
 - What I'd A/B Test
 
 ## Tools Used
